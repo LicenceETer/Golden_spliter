@@ -1,7 +1,7 @@
 #!/usr/bin/env pyhton3
 # -*- coding:utf-8 -*-
 
-#a golden spliter for stock analyze
+#a golden spliter for stock analyzer
 
 __author__ = "LicenceETer Huang"
 
